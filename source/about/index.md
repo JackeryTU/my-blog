@@ -1,5 +1,5 @@
 ---
-title: 关于山茶的一切
+title: About:关于山茶的一切
 date: 2026-07-23 10:24:46
 ---
 <div align="center">
@@ -49,4 +49,4 @@ Interested in the intersection of embedded systems, brain-inspired computing, da
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JackeryTU&show_icons=true&theme=default)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackeryTU)
 
-
+</div>
