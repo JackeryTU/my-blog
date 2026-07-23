@@ -11,15 +11,12 @@ date: 2026-07-23 10:24:46
 <br>
 
 <!-- Personal links: Zhihu / Bilibili / Email / Blog -->
-[![Zhihu](https://img.shields.io/badge/知乎-月沉Lethe-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/yi-yi-yi-4-60-26)
-[![Bilibili](https://img.shields.io/badge/Bilibili-椿咲璃音TsubakiNa-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1990187154)
-[![Email](https://img.shields.io/badge/Email-25303090101%40m.fudan.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:25303090101@m.fudan.edu.cn)
+[![Zhihu](https://img.shields.io/badge/知乎-月沉Lethe-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/yi-yi-yi-4-60-26)[![Bilibili](https://img.shields.io/badge/Bilibili-椿咲璃音TsubakiNa-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1990187154)[![Email](https://img.shields.io/badge/Email-25303090101%40m.fudan.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:25303090101@m.fudan.edu.cn)
 
 <br>
 
 <!-- Codeforces badge (static, links to profile) -->
-[![Codeforces](https://img.shields.io/badge/Codeforces-JackeryTU-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/JackeryTU)
-[![Blog](https://img.shields.io/badge/Blog-jackerytu.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jackerytu.netlify.app/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-JackeryTU-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/JackeryTU)[![Blog](https://img.shields.io/badge/Blog-jackerytu.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jackerytu.netlify.app/)
 
 
 
@@ -59,6 +56,3 @@ Interested in the intersection of embedded systems, brain-inspired computing, da
 ## Skills / Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
-
-
