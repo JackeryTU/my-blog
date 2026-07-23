@@ -123,4 +123,4 @@ markdown:
     permalinkClass: 'header-anchor'
     permalinkSymbol: '¶'
   plugins:
-    - markdown-it-katex
+    - "@traptitech/markdown-it-katex"
