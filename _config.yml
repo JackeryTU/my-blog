@@ -107,3 +107,4 @@ search:
   field: post
   content: true
   format: html
+skip_render: pdfjs/**

@@ -17,7 +17,7 @@ info:
   # Author name
   author: 椿咲璃音
   # Site URL
-  url: http://localhost:4000
+  url: jackerytu.netlify.app
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -227,8 +227,8 @@ navbar:
       icon: fa-regular fa-user
       submenus:
         Me: /about
-        Github: https://github.com/EvanNotFound/hexo-theme-redefine
-        Blog: https://ohevan.com
+        Github: https://github.com/JackeryTU
+        Blog: jackerytu.netlify.app
         
     # Links: 
     #   icon: fa-regular fa-link
@@ -361,7 +361,7 @@ comment:
   # Whether to enable comment
   enable: true
   # Comment system
-  system: waline # waline, gitalk, twikoo, giscus, utterances, artalk
+  system: giscus # waline, gitalk, twikoo, giscus, utterances, artalk
   # System configuration
   config:
     # Waline comment system. See https://waline.js.org/
@@ -386,17 +386,17 @@ comment:
       region: # Twikoo region. can be empty
     # Giscus comment system. See https://giscus.app/
     giscus:
-      repo: # Github repository name e.g. EvanNotFound/hexo-theme-redefine
-      repo_id: # Github repository id
-      category: # Github discussion category
-      category_id: # Github discussion category id
-      mapping: pathname # Which value to use as the unique identifier for the page. e.g. pathname, url, title, og:title. DO NOT USE og:title WITH PJAX ENABLED since pjax will not update og:title when the page changes
-      strict: 0 # Whether to enable strict mode. e.g. 0, 1
-      reactions_enabled: 1 # Whether to enable reactions. e.g. 0, 1
-      emit_metadata: 0 # Whether to emit metadata. e.g. 0, 1
-      lang: en # Giscus language. e.g. en, zh-CN, zh-TW
-      input_position: bottom # Place the comment box above/below the comments. e.g. top, bottom
-      loading: lazy # Load the comments lazily
+      repo: JackeryTU/blog-comments
+      repo_id: R_kgDOTg9YAQ
+      category: Announcements
+      category_id: DIC_kwDOTg9YAc4DByLt
+      mapping: pathname
+      strict: 0
+      reactions_enabled: 1
+      emit_metadata: 0
+      lang: zh-CN
+      input_position: bottom
+      loading: lazy
     # Artalk comment system. See https://artalk.js.org/
     artalk:
       server: # Artalk server URL. e.g. https://artalk.example.com
