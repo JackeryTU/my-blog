@@ -3,7 +3,6 @@ title:关于山茶的一切
 date: 2026-07-23 10:24:46
 ---
 <div align="center">
-## JackeryTU
 
 ### 复旦大学 · 未来信息创新学院
 
