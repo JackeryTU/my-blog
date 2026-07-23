@@ -226,7 +226,7 @@ navbar:
     About: 
       icon: fa-regular fa-user
       submenus:
-        Me: /about
+        Me: /about/index.md
         Github: https://github.com/JackeryTU
         Blog: https://jackerytu.netlify.app
         
