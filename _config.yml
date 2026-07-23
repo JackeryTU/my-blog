@@ -107,3 +107,20 @@ search:
   field: post
   content: true
   format: html
+
+markdown:
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '""'''''
+  anchors:
+    level: 2
+    collisionSuffix: 'v'
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSymbol: '¶'
+  plugins:
+    - markdown-it-katex
