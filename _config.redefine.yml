@@ -17,7 +17,7 @@ info:
   # Author name
   author: 椿咲璃音
   # Site URL
-  url: https://jackerytu.netlify.app
+  url: https://jackerytu.github.io
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -228,7 +228,7 @@ navbar:
       submenus:
         Me: /about
         Github: https://github.com/JackeryTU
-        Blog: https://jackerytu.netlify.app
+        Blog: https://jackerytu.github.io/
         
     # Links: 
     #   icon: fa-regular fa-link
