@@ -83,4 +83,6 @@ markdown:
     permalinkClass: header-anchor
     permalinkSymbol: ¶
   plugins:
-    - '@traptitech/markdown-it-katex'
+    - name: '@traptitech/markdown-it-katex'
+      options:
+        output: html
