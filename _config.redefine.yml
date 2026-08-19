@@ -255,7 +255,7 @@ home:
     position: left # Sidebar position. left, right
     first_item: menu # First item in sidebar. menu, info
     announcement: # Announcement text
-    show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
+    show_on_mobile: false # Whether to show sidebar navigation on mobile sheet menu
     links:
        Archives: 
          path: /archives 
@@ -341,7 +341,7 @@ articles:
   # Article recommendation. Requires nodejieba (npm install nodejieba). Transplanted from hexo-theme-volantis.
   recommendation:
     # Whether to enable article recommendation
-    enable: false
+    enable: true
     # Article recommendation title
     title: 推荐阅读
     # Max number of articles to display
