@@ -441,7 +441,7 @@ inject:
   # Inject custom head html code
   head:
     - '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.47/dist/katex.min.css" crossorigin="anonymous">'
-    -
+    - '<link rel="stylesheet" href="/css/custom.css">'
   # Inject custom footer html code
   footer:
     -

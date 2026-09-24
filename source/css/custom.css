@@ -1,0 +1,19 @@
+/* Keep post titles left-aligned, including titles displayed over cover images. */
+.article-title-cover,
+.article-title-regular {
+  text-align: left !important;
+}
+
+/*
+ * This cover is 16:9. The theme's fixed, very wide banner height zoomed it in
+ * and cropped the character's face. Preserve the full image on article pages
+ * at tablet/desktop widths while leaving compact mobile cards unchanged.
+ */
+@media (min-width: 768px) {
+  .article-title > img[src$="/images/fudan-icmne-admission-cover.png"] {
+    height: auto !important;
+    aspect-ratio: 16 / 9;
+    object-fit: contain !important;
+    object-position: center;
+  }
+}
