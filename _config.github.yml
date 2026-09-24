@@ -1,5 +1,5 @@
 url: https://jackerytu.github.io
 deploy:
   type: git
-  repo: git@github.com:JackeryTU/jackerytu.github.io.git
+  repo: https://github.com/JackeryTU/jackerytu.github.io.git
   branch: main
