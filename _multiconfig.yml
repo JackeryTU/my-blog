@@ -61,7 +61,7 @@ ignore: null
 theme: redefine
 deploy:
   type: git
-  repo: git@github.com:JackeryTU/jackerytu.github.io.git
+  repo: https://github.com/JackeryTU/jackerytu.github.io.git
   branch: main
 search:
   path: search.xml
